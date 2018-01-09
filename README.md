@@ -16,4 +16,4 @@ paywitheasebuzz-ios-lib
 The step by step detailed procedure to integrate the kit is mentioned in the documentation.pdf file. 
 
 You can download it from - 
-https://github.com/easebuzz/paywitheasebuzz-ios-lib/documentation.pdf
+https://github.com/easebuzz/paywitheasebuzz-ios-lib/blob/master/documentation.pdf
