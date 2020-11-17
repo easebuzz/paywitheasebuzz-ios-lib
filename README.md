@@ -2,7 +2,7 @@
 paywitheasebuzz-ios-lib
 
 # Basic steps to integrate PaywithEaseBuzz payment kit for iOS.
-1.Copy easebuzz.framework in your application.
+1.Copy easebuzz.xcframework in your application.
 
 
 2.Initiate payment request from your application. - On click of pay button of your app you need to start initiatePaymentAction and require to pass the necessary parameters to PayWithEasebuzz Class.
