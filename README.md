@@ -11,8 +11,6 @@ paywitheasebuzz-ios-lib
 3.Handle the response of the payment Using PayWithEasebuzzCallback delegates.
 
 
-4.For Production purpose, add the RunScript for removing the unwanted simulator architectures in the project, detailed description in the following documentation.pdf.
-
 The step by step detailed procedure to integrate the kit is mentioned in the documentation.pdf file. 
 
 You can download it from - 
