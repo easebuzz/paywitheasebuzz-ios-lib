@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4L8XDnnxO0zSujZ0y4Zfz036aWk=
+		c8mvwkgDxmvvHJ/1L0bMPasJrcY=
 		</data>
 		<key>BannerCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/Easebuzz-Swift.h</key>
 		<data>
-		pWRX8ocfVBm8xZs+uHDF5hXY4PY=
+		iDObqM9BolR5mDrPbr5ktPR/tos=
 		</data>
 		<key>Headers/Easebuzz.h</key>
 		<data>
@@ -42,47 +42,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Gb30NiSi9niKC8KtSNFyz4l/TrY=
+		2j8Rnw7AQkyfh4dhUUVJMAJti6U=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9M19emEOT28nuLYqpsuqx+pso2s=
+		BQich9ARlDeMRAEMaAyMNHmM+aE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		vKyj2CpzQl6fnp23CuybMdTdEjE=
+		bQnALvzXxJZTIyDs+P7tDTGB8kE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		j6oIHuBX/H+paW0kWvBuPCjwqYw=
+		MvYTT33KlSV9ucA1ztkIMJdUvuE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vKyj2CpzQl6fnp23CuybMdTdEjE=
+		bQnALvzXxJZTIyDs+P7tDTGB8kE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QKLsH1gl65rB/SlQgxvtvpO8oiU=
+		bEGtnTjsbC0MC1ZClAmvmvakMdE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9M19emEOT28nuLYqpsuqx+pso2s=
+		BQich9ARlDeMRAEMaAyMNHmM+aE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/t7BmL/RZDxdinDtYNzDFJAIQNA=
+		8k/HmFIKY0pUjzX3EWXn3RC65Dw=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		tp4zu36QoCR/oB2rRz+wpUPyX0o=
+		suMk5Lqo9+hYi6t980YqxhtdBUM=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/t7BmL/RZDxdinDtYNzDFJAIQNA=
+		8k/HmFIKY0pUjzX3EWXn3RC65Dw=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		f9y8NiBd/ZBSzgn0w54gAUTS48I=
+		+WUnxvSOo9M8VdTdGTr/u1+iv4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-11.0+.nib</key>
 		<data>
-		B+KtDan8S6hF9pGymW6Cudd5tas=
+		3BaB5wcvjQ/am6B/uwjeq+wbnr4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-12.3+.nib</key>
 		<data>
-		B+KtDan8S6hF9pGymW6Cudd5tas=
+		3BaB5wcvjQ/am6B/uwjeq+wbnr4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/runtime.nib</key>
 		<data>
-		XZ3Llty85ygy8eDx5r71PsONLeY=
+		0v7LOtqJF7jbbMxiqdpy1WXumLg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-11.0+.nib</key>
 		<data>
@@ -126,15 +126,15 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-11.0+.nib</key>
 		<data>
-		30rObQ3ZifU9NNeNepIKEgxzFL0=
+		I7Hzi5ZkgccovN5bZ3MHyvhVsDk=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-12.3+.nib</key>
 		<data>
-		30rObQ3ZifU9NNeNepIKEgxzFL0=
+		I7Hzi5ZkgccovN5bZ3MHyvhVsDk=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/runtime.nib</key>
 		<data>
-		HNE7nhi9Yoj0UYXLN94rtWH1cpo=
+		FtnGFqfCUZv/72LKIGL79QnW7FU=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-11.0+.nib</key>
 		<data>
@@ -687,11 +687,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4L8XDnnxO0zSujZ0y4Zfz036aWk=
+			c8mvwkgDxmvvHJ/1L0bMPasJrcY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kdyRJZXXqNfqDJ7eVSroKV5cra/muFnpgNzIMZ4ljPw=
+			rvfGsQ1ZZRB6/tU1qhs4B/UYD5VuRuW1PhtqjyqnHkg=
 			</data>
 		</dict>
 		<key>BannerCollectionCell.nib/objects-12.3+.nib</key>
@@ -764,11 +764,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pWRX8ocfVBm8xZs+uHDF5hXY4PY=
+			iDObqM9BolR5mDrPbr5ktPR/tos=
 			</data>
 			<key>hash2</key>
 			<data>
-			KuOzuU2l+2MEmlBN8VREQs+aJGjLGXoHnMZAYie2obw=
+			vIWD/NA/zj9EO/jzpmm1yHF5Iody/fOebddxZO5+Cjs=
 			</data>
 		</dict>
 		<key>Headers/Easebuzz.h</key>
@@ -786,110 +786,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9M19emEOT28nuLYqpsuqx+pso2s=
+			BQich9ARlDeMRAEMaAyMNHmM+aE=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlsxdIb8uejbj8XFBqnJ0BUL7XdhXe4lLnjS5wOfFoU=
+			ieh6mJUa3JbRGZLod8nLg6dAz9WJfmyNfRghJWq/7J4=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKyj2CpzQl6fnp23CuybMdTdEjE=
+			bQnALvzXxJZTIyDs+P7tDTGB8kE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zGbjDVK6FiWma8AyJpimqNVY39zLbN/egGg+s8hBgzI=
+			bXWDS1ueTRjzpnWzL5CHIJ6grVxg/aX3mbF5jzlQyEw=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j6oIHuBX/H+paW0kWvBuPCjwqYw=
+			MvYTT33KlSV9ucA1ztkIMJdUvuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CwaGfSNBlUv0haeZRuhCH4a4AlRoTD3IvNkpvEfVkMg=
+			aIixC98LWAHWaxSzqRJBdts8RuUrauJekg9SXWvN7Bw=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKyj2CpzQl6fnp23CuybMdTdEjE=
+			bQnALvzXxJZTIyDs+P7tDTGB8kE=
 			</data>
 			<key>hash2</key>
 			<data>
-			zGbjDVK6FiWma8AyJpimqNVY39zLbN/egGg+s8hBgzI=
+			bXWDS1ueTRjzpnWzL5CHIJ6grVxg/aX3mbF5jzlQyEw=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QKLsH1gl65rB/SlQgxvtvpO8oiU=
+			bEGtnTjsbC0MC1ZClAmvmvakMdE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GFo6WM3FxtzfYn3JquO+mkVR6hpQww4jTU7ailJS9yQ=
+			HfRRi3qYF5lFLBj/3BAtIJ/AOANQpuMgbxOPvtzP46w=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9M19emEOT28nuLYqpsuqx+pso2s=
+			BQich9ARlDeMRAEMaAyMNHmM+aE=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlsxdIb8uejbj8XFBqnJ0BUL7XdhXe4lLnjS5wOfFoU=
+			ieh6mJUa3JbRGZLod8nLg6dAz9WJfmyNfRghJWq/7J4=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/t7BmL/RZDxdinDtYNzDFJAIQNA=
+			8k/HmFIKY0pUjzX3EWXn3RC65Dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGBlbxY5h0tDJPXCo9lW8dFoMSsxSmupHz90k4pQIqA=
+			7MvsB+y8NXpTi6LZ3B6LXToh6+XZkIOvmFQqgbpZIo0=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tp4zu36QoCR/oB2rRz+wpUPyX0o=
+			suMk5Lqo9+hYi6t980YqxhtdBUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3ITpcpjaJmp+w6o9mnub1aT1nqKJIKuvgmIzljfOduE=
+			NqiXOY/OQx9YXzAK3eiSqTqD1Ps7W0ZjB3YKSnV10Ng=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/t7BmL/RZDxdinDtYNzDFJAIQNA=
+			8k/HmFIKY0pUjzX3EWXn3RC65Dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cGBlbxY5h0tDJPXCo9lW8dFoMSsxSmupHz90k4pQIqA=
+			7MvsB+y8NXpTi6LZ3B6LXToh6+XZkIOvmFQqgbpZIo0=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f9y8NiBd/ZBSzgn0w54gAUTS48I=
+			+WUnxvSOo9M8VdTdGTr/u1+iv4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			0vTg0vCOsPGWvAdXj54YWtHZWzucRxYSUe7XRYPdkdQ=
+			TSiD4LnUVlrfaNmAFwdEY8e7aGcUezw++JHJMi9cVbk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -907,33 +907,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B+KtDan8S6hF9pGymW6Cudd5tas=
+			3BaB5wcvjQ/am6B/uwjeq+wbnr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			wyydbVGwXiHruCm0VomlDZRecr/OJISuLoKwrd/8adA=
+			JcnfFTyb7+wX7ACBxHtu8EivxzAUvGJZcOdg0vxXjCs=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B+KtDan8S6hF9pGymW6Cudd5tas=
+			3BaB5wcvjQ/am6B/uwjeq+wbnr4=
 			</data>
 			<key>hash2</key>
 			<data>
-			wyydbVGwXiHruCm0VomlDZRecr/OJISuLoKwrd/8adA=
+			JcnfFTyb7+wX7ACBxHtu8EivxzAUvGJZcOdg0vxXjCs=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XZ3Llty85ygy8eDx5r71PsONLeY=
+			0v7LOtqJF7jbbMxiqdpy1WXumLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ljxw1VX8oZKj/3JSDEqqLmb85Nd+eqeXFpgEBSLwKnM=
+			GhbZ33zn6Vi+dbv282+U1MJ7e6GFkaWshF3zZGNlBd0=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-11.0+.nib</key>
@@ -1006,33 +1006,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			30rObQ3ZifU9NNeNepIKEgxzFL0=
+			I7Hzi5ZkgccovN5bZ3MHyvhVsDk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oxdIo9rcz5bp6qBY0W2WSXWF2fNEbGRFe3v5ATN7MIg=
+			Z3Z9HeGu91lw+/JHQzSU5mp4+Uh6cpBzJCjOEGdH3AU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			30rObQ3ZifU9NNeNepIKEgxzFL0=
+			I7Hzi5ZkgccovN5bZ3MHyvhVsDk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oxdIo9rcz5bp6qBY0W2WSXWF2fNEbGRFe3v5ATN7MIg=
+			Z3Z9HeGu91lw+/JHQzSU5mp4+Uh6cpBzJCjOEGdH3AU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HNE7nhi9Yoj0UYXLN94rtWH1cpo=
+			FtnGFqfCUZv/72LKIGL79QnW7FU=
 			</data>
 			<key>hash2</key>
 			<data>
-			zB8QSLQ1naIlcJcx3DzR4cVpUqKv0WqfNMPbxej+7dY=
+			VP5uJpvxesshJuA2KE26WBolyNeR7Jdz7HMKV4NOU2E=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-11.0+.nib</key>
