@@ -37,6 +37,5 @@ Pod::Spec.new do |s|
    s.platforms = {
      'ios' => '10.0'
    }
-   s.osx.deployment_target     = '10.13'
 end
 
