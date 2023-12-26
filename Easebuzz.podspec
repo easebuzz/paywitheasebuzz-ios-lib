@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/easebuzz/paywitheasebuzz-ios-lib'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Easebuzz' => 'info@easebuzz.in' }
-  s.source           = { :git => 'https://github.com/easebuzz/paywitheasebuzz-ios-lib.git   ', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/easebuzz/paywitheasebuzz-ios-lib.git', :tag => s.version.to_s }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.vendored_framework = 'Easebuzz.xcframework'
