@@ -11,9 +11,9 @@ pod 'Easebuzz', '~> 1.1'
 
 # Installation Using Swift | Objective C
 
-Do copy and paste following code from [Document].(https://docs.easebuzz.in/docs/payment-gateway/126jq0cu4yjct-ios#integration-code)
+Do copy and paste following code from [Document](https://docs.easebuzz.in/docs/payment-gateway/126jq0cu4yjct-ios#integration-code).
 
 
 # Basic steps to integrate PaywithEaseBuzz payment kit for iOS Using Framework.
 
-Refer to the documentation from [here].(https://docs.easebuzz.in/docs/payment-gateway/126jq0cu4yjct-ios)
+Refer to the documentation from [here](https://docs.easebuzz.in/docs/payment-gateway/126jq0cu4yjct-ios).
